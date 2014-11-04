@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>es.uvigo.ei.sing</groupId>
 	<artifactId>rubioseq-gui-persistence</artifactId>
-	<version>0.1</version>
+	<version>1.0</version>
 	<name>RUbioSeq-GUI</name>
 	<description>The RUbioSeq-GUI Project</description>
 	<licenses>
